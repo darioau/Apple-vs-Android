@@ -1,0 +1,67 @@
+
+html {
+    background-color:#cabfb6;
+}
+body{
+    text-align: center;
+    background-color:white;
+    margin: 0 auto;
+    border-top: 0px;
+    padding: 100px;
+    width: 600px;
+    
+}
+
+.MainImage{
+    width: 600px;
+}
+
+
+.ButtonText{
+    background-color: #c9793b;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.MainText{
+    color:black;
+    font-family: 'Open Sans', sans-serif; 
+    text-align: left;
+}
+.MainParagraph{
+    color:black;
+    font-family: 'Open Sans', sans-serif; 
+    text-align: left;
+    font-weight: normal;
+}
+.AndroidButton{
+    background-color: #a4c93b;
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    padding-top: 5px;
+    padding-bottom:1px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+}
+.AppleButton{
+    background-color: #b6bcca;
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    padding-top: 5px;
+    padding-bottom:1px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+}
